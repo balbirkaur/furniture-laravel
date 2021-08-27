@@ -1,0 +1,25 @@
+.adminmbaimage_draggable {
+	background: #80f980;
+	border: solid 1px black;
+	float: left;
+	height: 110px;
+	margin: 3px;
+	overflow: hidden;
+	padding: 3px;
+	width: 170px;
+}
+.adminmbaimage_draggable.inactive {
+	background: #f98080;
+}
+.adminmbaimage_draggable label {
+	display: block;
+}
+.adminmbaimage_sortable-placeholder {
+	background: #a744f0;
+	border: solid 1px orange;
+	float: left;
+	height: 110px;
+	margin: 3px;
+	padding: 3px;
+	width: 170px;
+}
